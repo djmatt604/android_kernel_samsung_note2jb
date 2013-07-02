@@ -44,5 +44,5 @@ const char linux_banner[] =
 
 const char linux_proc_banner[] =
 	"%s version %s"
-	" (" ::TINT:: v1.0 ")"
+	" (TeamInfamous)"
 	" (" LINUX_COMPILER ") %s\n";
